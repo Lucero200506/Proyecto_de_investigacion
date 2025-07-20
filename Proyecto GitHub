@@ -1,0 +1,16 @@
+# Proyecto de Investigación en Python
+
+Este proyecto tiene como objetivo analizar datos usando Python para un estudio de investigación. Utiliza bibliotecas como `pandas`, `matplotlib` y `numpy`.
+
+## Estructura
+
+- `src/`: Código de análisis principal.
+- `data/`: Datos usados en la investigación.
+- `docs/`: Documentación del proyecto.
+- `tests/`: Pruebas del código.
+- `utils/`: Funciones auxiliares.
+
+## Instalación
+
+```bash
+pip install -r requirements.txt
